@@ -1,0 +1,11 @@
+{
+  "name": "comcast-bill-scraper",
+  "version": "1.0.0",
+  "description": "comcast-bill-scraper for Deck.co",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Zakary Loney",
+  "license": "ISC"
+}
