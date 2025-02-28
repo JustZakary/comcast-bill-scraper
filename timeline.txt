@@ -1,0 +1,2 @@
+1:22pm - Start
+1:23pm - Git Init
