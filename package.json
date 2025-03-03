@@ -5,12 +5,14 @@
   "description": "comcast-bill-scraper for Deck.co",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "start:playwright": "node src/playwright.js"
   },
   "author": "Zakary Loney",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.7",
+    "playwright": "^1.50.1",
     "puppeteer": "^24.3.0",
     "puppeteer-core": "^24.3.0",
     "puppeteer-extra": "^3.3.6",

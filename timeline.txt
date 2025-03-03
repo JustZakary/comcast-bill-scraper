@@ -9,3 +9,6 @@ March 2nd
   7:15pm: Temporary ban lifted; successfully logged in
   7:25pm: Implemented a retry system allowing up to 3 login attempts
   7:31pm cleaned edge cases and added extracting past bill summaries
+  7:40pm realized the assignment asked for Playwright in Python 🤦
+  7:45pm comcast wont login without the puppeteer-extra-plugin-stealth
+  8:10pm Got the JS script working with playwright, still no Python version... Still getting blocked by bot detection. -- Considering handing in JS version
