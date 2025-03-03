@@ -1,11 +1,19 @@
 {
   "name": "comcast-bill-scraper",
   "version": "1.0.0",
+  "type": "module",
   "description": "comcast-bill-scraper for Deck.co",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
   "author": "Zakary Loney",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "puppeteer": "^24.3.0",
+    "puppeteer-core": "^24.3.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
 }

@@ -1,2 +1,11 @@
-1:22pm - Start
-1:23pm - Git Init
+February 28th
+  1:22pm: Project started
+  1:23pm: Initialized Git repository
+  1:41pm: Gained access to the Comcast account after several "Access Denied" issues on Opera
+  2:58pm: Created the login script but encountered a block (likely a temporary ban)
+  March 2nd
+
+Resumed work on the project
+  7:15pm: Temporary ban lifted; successfully logged in
+  7:25pm: Implemented a retry system allowing up to 3 login attempts
+  7:31pm cleaned edge cases and added extracting past bill summaries
