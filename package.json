@@ -11,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "playwright": "^1.50.1",
-    "playwright-extra": "^4.3.6",
     "puppeteer": "^24.3.0",
     "puppeteer-core": "^24.3.0",
     "puppeteer-extra": "^3.3.6",
