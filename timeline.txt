@@ -12,3 +12,9 @@ March 2nd
   7:40pm realized the assignment asked for Playwright in Python 🤦
   7:45pm comcast wont login without the puppeteer-extra-plugin-stealth
   8:10pm Got the JS script working with playwright, still no Python version... Still getting blocked by bot detection. -- Considering handing in JS version
+
+March 5th
+  Marc-Antoine Sigouin said JS was fine.
+
+March 6th
+  1:30pm Started compiling my readme
